@@ -6,6 +6,8 @@ It is designed for experimentation, benchmarking, or dataset generation using LL
 ---
 ## Citation / Attribution
 
+The base code used in this repo was created by Peng Wang: https://github.com/ClAy140/DS680-BU-Fall2025/tree/main/HW3
+
 If you use this code in your research, please acknowledge it in your paper (e.g., in the Appendix or Methods section) to ensure proper attribution. Example:
 
 “This work uses the prompt generation and evaluation pipeline developed by <Peng Wang> (2025).”
